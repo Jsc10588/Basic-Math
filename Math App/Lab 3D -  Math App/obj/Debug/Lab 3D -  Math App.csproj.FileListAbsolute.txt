@@ -1,0 +1,7 @@
+C:\Users\jsc10\source\repos\Lab 3D -  Math App\Lab 3D -  Math App\bin\Debug\Lab 3D -  Math App.exe.config
+C:\Users\jsc10\source\repos\Lab 3D -  Math App\Lab 3D -  Math App\bin\Debug\Lab 3D -  Math App.exe
+C:\Users\jsc10\source\repos\Lab 3D -  Math App\Lab 3D -  Math App\bin\Debug\Lab 3D -  Math App.pdb
+C:\Users\jsc10\source\repos\Lab 3D -  Math App\Lab 3D -  Math App\obj\Debug\Lab 3D -  Math App.csprojAssemblyReference.cache
+C:\Users\jsc10\source\repos\Lab 3D -  Math App\Lab 3D -  Math App\obj\Debug\Lab 3D -  Math App.csproj.CoreCompileInputs.cache
+C:\Users\jsc10\source\repos\Lab 3D -  Math App\Lab 3D -  Math App\obj\Debug\Lab 3D -  Math App.exe
+C:\Users\jsc10\source\repos\Lab 3D -  Math App\Lab 3D -  Math App\obj\Debug\Lab 3D -  Math App.pdb
